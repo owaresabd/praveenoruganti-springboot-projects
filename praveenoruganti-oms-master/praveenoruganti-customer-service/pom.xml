@@ -8,7 +8,7 @@
 		<version>2.2.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.praveen.oms.customerservice</groupId>
+	<groupId>com.praveen.oms.customer</groupId>
 	<artifactId>praveenoruganti-customer-service</artifactId>
 	<version>1.0</version>
 	<name>praveenoruganti-customer-service</name>

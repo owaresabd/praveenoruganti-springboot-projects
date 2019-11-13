@@ -1,10 +1,10 @@
-package com.praveen.oms.customerservice;
+package com.praveen.oms.salesorder;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CustomerServiceApplicationTests {
+class SalesorderServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
