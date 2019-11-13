@@ -19,7 +19,7 @@ public class CustomerRequest{
 	private String lastname;
 	@Pattern(regexp="^[\\w-_\\.+]*[\\w-_\\.]\\@([\\w]+\\.)+[\\w]+[\\w]$",message="Email address must include @ and proper domain")  
 	private String email;
-	@Pattern(regexp="(0?[1-9]|[12][0-9]|3[01])/(0?[1-9]|1[012])/((19|20)\\\\d\\\\d)",message="creationdate must be in DD/MM/YYYY")
+	@Pattern(regexp="(0?[1-9]|[12][0-9]|3[01])/(0?[1-9]|1[012])/((19|20)\\d\\d)",message="creationdate must be in DD/MM/YYYY")
 	private String creationdate;
 
 	
